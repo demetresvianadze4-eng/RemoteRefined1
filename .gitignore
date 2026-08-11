@@ -1,0 +1,12 @@
+# Secrets and machine-local settings
+.env
+.env.local
+
+# Dependencies and local diagnostics
+node_modules/
+npm-debug.log*
+*.log
+
+# Operating-system clutter
+.DS_Store
+Thumbs.db
